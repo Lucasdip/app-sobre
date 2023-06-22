@@ -10,8 +10,8 @@ import Section from './components/section';
 
 const gamesListData = [
  {
-  url:"https://www.twitch.tv/directory/game/League%20of%20Legends",
-  imageUrl:"https://static-cdn.jtvnw.net/ttv-boxart/21779-188x250.jpg",
+  url:"https://www.twitch.tv/directory/game/Yu-Gi-Oh!%20The%20Duelists%20of%20the%20Roses",
+  imageUrl:"https://static-cdn.jtvnw.net/ttv-boxart/8451_IGDB-144x192.jpg",
   alt:"Imagem do jogo",
  },
 
